@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- MASCOT LOTTIE ANIMATION -->
-  <img src="hacker-bot.svg" width="350" alt="Hacker System Mascot" />
+  <!-- THE CORRECTED MASCOT LINK -->
+  <img src="Hacker-bot.svg" width="350" alt="Hacker System Mascot" />
 </p>
 
 <p align="center">
