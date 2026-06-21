@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="Hacker-bot.svg" width="350" alt="Hacker System Mascot" />
-</p>
 
----
 
 ## 🕶️ Executive Summary
 
