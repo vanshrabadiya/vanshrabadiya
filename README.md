@@ -24,7 +24,7 @@
 ### 🏆 Flagship Product & Proof of Work
 
 * 🥑 **MyBite AI** — [mybite.site](https://mybite.site)  
-  *Scan any restaurant menu or meal photo for instant nutrition data. The fastest calorie tracker designed for healthy eating outside, weight loss, and GLP-1 goals. Connected to Supabase and Vercel.*
+  *Healthy eating outside. Scan any restaurant menu or meal photo for instant nutrition data. The fastest calorie tracker designed for weight loss and GLP-1 goals.*
 
 ---
 
