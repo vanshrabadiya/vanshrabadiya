@@ -21,11 +21,15 @@
 
 ---
 
-### 🚀 Active Ventures & Live Demos
+### 🏆 Flagship Product & Proof of Work
 
 * 🥑 **MyBite AI** — [mybite.site](https://mybite.site)  
   *Flagship product. A fully autonomous AI menu scanner and macro-nutrition tracker. Connected to Supabase and Vercel.*
-  
+
+---
+
+### 🚀 Active Ventures & Live Demos
+
 * 🔌 **BlueNode** — [bluenodes.pages.dev](https://bluenodes.pages.dev/)  
   *Enterprise AI platform. Securely connects custom LLMs directly to private databases locally with zero data leaks.*
 
@@ -42,7 +46,7 @@
 
 ### 🔒 Closed-Source IP Lab
 
-To protect proprietary intellectual property for active commercial SaaS ventures, several of my core systems are maintained in private repositories:
+To protect proprietary intellectual property for active commercial SaaS ventures, several of my core systems are maintained in private repositories due to commercialization strategies, trade secret protections, and upcoming venture backing preparations:
 
 * 🛡️ **MyBite Core Engine** (`private`): Vision-nutrition neural pipelines and calorie estimation logic.
 * 🧠 **Agent Coordination Core** (`private`): State-machine routing and multi-agent workflow managers.
