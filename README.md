@@ -12,7 +12,11 @@
 </p>
 
 <p align="center">
-  I orchestrate autonomous AI agent systems to design, build, and ship high-impact software products at 10x speed.
+  I build and scale next-generation SaaS products powered by autonomous agentic systems. Currently focused on redefining macro-nutrition tracking at <b>MyBite AI</b> and engineering high-velocity software systems.
+</p>
+
+<p align="center">
+  <i>"Speed is the ultimate lever. We design, build, and ship the future in silence."</i>
 </p>
 
 ---
