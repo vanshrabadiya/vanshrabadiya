@@ -55,15 +55,7 @@ To protect proprietary intellectual property for active commercial SaaS ventures
 
 `Antigravity` • `Google Jules` • `Google Stitch` • `Supabase` • `Vercel` • `Firebase` • `Spline 3D` • `Modern CSS`
 
----
 
-### 📊 Performance Metrics
-
-<p align="center">
-  <a href="https://github.com/vanshrabadiya">
-    <img src="https://github-readme-stats.vercel.app/api?username=vanshrabadiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0713&title_color=a855f7&text_color=b5a9cd&icon_color=a855f7" alt="Vansh's GitHub Stats" />
-  </a>
-</p>
 
 <p align="center">
   <img src="system-error.svg" width="180" alt="System Status" />
