@@ -48,7 +48,7 @@
 
 To maintain strict user privacy and protect proprietary trade secrets for active commercial SaaS ventures, all core software architectures, vision-estimation pipelines, and data synchronization frameworks are kept closed-source. 
 
-*Note: Access to private documentation or secure code audits is restricted and can only be requested for strategic partnerships or investment opportunities.*
+*Access and code audits are restricted to strategic partners.*
 
 ---
 
