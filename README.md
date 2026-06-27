@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="Hacker-bot.svg" width="160" alt="Hacker Bot" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&duration=4000&pause=1500&color=a855f7&background=0b071300&center=true&vCenter=true&width=500&lines=Founder+%26+CEO%2C+MyBite+AI;AI+Architect+%26+SaaS+Builder;I+don't+just+plan+-+I+ship." alt="Typing SVG" />
 </p>
 
@@ -10,10 +14,6 @@
   <a href="https://vanshrabadiya.is-a.dev"><img src="https://img.shields.io/badge/Website-vanshrabadiya.is--a.dev-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
   <a href="mailto:vanshrabadiyav@gmail.com"><img src="https://img.shields.io/badge/Email-vanshrabadiyav%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/vanshrabadiya"><img src="https://img.shields.io/badge/GitHub-vanshrabadiya-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="Hacker-bot.svg" width="160" alt="Hacker Bot" />
 </p>
 
 <p align="center">
