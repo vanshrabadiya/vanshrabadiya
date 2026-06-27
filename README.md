@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0713&height=180&section=header&text=VANSH%20RABADIYA&fontSize=45&theme=tokyonight&fontColor=ffffff" alt="Vansh Rabadiya" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffafcc,c8b6ff,a2d2ff&height=180&section=header&text=VANSH%20RABADIYA&fontSize=45&fontColor=ffffff" alt="Vansh Rabadiya" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&duration=4000&pause=1500&color=a855f7&background=0b071300&center=true&vCenter=true&width=500&lines=Founder+%26+CEO%2C+MyBite+AI;AI+Architect+%26+SaaS+Builder;I+don't+just+plan+-+I+ship." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&duration=4000&pause=1500&color=c8b6ff&background=0b071300&center=true&vCenter=true&width=500&lines=Founder+%26+CEO%2C+MyBite+AI;AI+Architect+%26+SaaS+Builder;I+don't+just+plan+-+I+ship." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://vanshrabadiya.is-a.dev"><img src="https://img.shields.io/badge/Website-vanshrabadiya.is--a.dev-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="mailto:vanshrabadiyav@gmail.com"><img src="https://img.shields.io/badge/Email-vanshrabadiyav%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vanshrabadiya"><img src="https://img.shields.io/badge/GitHub-vanshrabadiya-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://vanshrabadiya.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-vanshrabadiya.is--a.dev-ffafcc?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:vanshrabadiyav@gmail.com"><img src="https://img.shields.io/badge/Email-vanshrabadiyav%40gmail.com-c8b6ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vanshrabadiya"><img src="https://img.shields.io/badge/GitHub-vanshrabadiya-a2d2ff?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
