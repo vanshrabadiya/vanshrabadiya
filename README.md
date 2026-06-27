@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0713&height=180&section=header&text=VANSH%20RABADIYA&fontSize=45&theme=tokyonight&fontColor=ffffff" alt="Vansh Rabadiya" />
 </p>
-
-<p align="center">
-  <img src="Hacker-bot.svg" width="160" alt="Hacker Bot" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&duration=4000&pause=1500&color=a855f7&background=0b071300&center=true&vCenter=true&width=500&lines=Founder+%26+CEO%2C+MyBite+AI;AI+Architect+%26+SaaS+Builder;I+don't+just+plan+-+I+ship." alt="Typing SVG" />
 </p>
