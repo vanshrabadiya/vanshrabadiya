@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="Hacker-bot.svg" width="220" alt="Hacker Bot" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0713&height=180&section=header&text=VANSH%20RABADIYA&fontSize=45&theme=tokyonight&fontColor=ffffff" alt="Vansh Rabadiya" />
 </p>
 
-<h1 align="center">VANSH RABADIYA</h1>
-
 <p align="center">
-  <b>Founder & CEO, MyBite AI</b> &nbsp;•&nbsp; <b>AI Software Builder & Product Creator</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&duration=4000&pause=1500&color=a855f7&background=0b071300&center=true&vCenter=true&width=500&lines=Founder+%26+CEO%2C+MyBite+AI;AI+Architect+%26+SaaS+Builder;I+don't+just+plan+-+I+ship." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,11 +13,11 @@
 </p>
 
 <p align="center">
-  I orchestrate autonomous AI agent systems to design, build, and ship high-impact software products at 10x speed. I don't just plan—I ship.
+  <img src="Hacker-bot.svg" width="160" alt="Hacker Bot" />
 </p>
 
 <p align="center">
-  <i>"Most people commentate. A rare few execute. We build the future in silence."</i>
+  I orchestrate autonomous AI agent systems to design, build, and ship high-impact software products at 10x speed.
 </p>
 
 ---
@@ -45,10 +43,10 @@
 ### 🚀 Active Ventures & Live Demos
 
 * 🥑 **MyBite AI** — [mybite.site](https://mybite.site)  
-  *Flagship product. A fully autonomous AI menu scanner and macro-nutrition tracker. Connects to Supabase backend and deployed instantly on Vercel.*
+  *Flagship product. A fully autonomous AI menu scanner and macro-nutrition tracker. Connected to Supabase and Vercel.*
   
 * 🔌 **BlueNode** — [bluenodes.pages.dev](https://bluenodes.pages.dev/)  
-  *Enterprise AI portal. Connects custom large language models directly to private databases locally with zero data leaks.*
+  *Enterprise AI platform. Securely connects custom LLMs directly to private databases locally with zero data leaks.*
 
 * ⚙️ **Glassy AI** — [glassy-ai.pages.dev](https://glassy-ai.pages.dev/)  
   *Sleek business workflow automation platform run entirely by coordinated AI agents.*
@@ -67,7 +65,7 @@ To protect proprietary intellectual property for active commercial SaaS ventures
 
 * 🛡️ **MyBite Core Engine** (`private`): Vision-nutrition neural pipelines and calorie estimation logic.
 * 🧠 **Agent Coordination Core** (`private`): State-machine routing and multi-agent workflow managers.
-* 🗝️ **Database Adapters** (`private`): Compliance and local-database synchronization adapters.
+* 🗝️ **Database Adapters** (`private`): Compliance and local-database adapters for enterprise deployments.
 
 ---
 
@@ -78,5 +76,5 @@ To protect proprietary intellectual property for active commercial SaaS ventures
 ---
 
 <p align="center">
-  <img src="system-error.svg" width="180" alt="System Status" />
+  <img src="system-error.svg" width="160" alt="System Status" />
 </p>
