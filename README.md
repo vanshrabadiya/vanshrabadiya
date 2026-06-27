@@ -24,7 +24,7 @@
 ### 🏆 Flagship Product & Proof of Work
 
 * 🥑 **MyBite AI** — [mybite.site](https://mybite.site)  
-  *Flagship product. A fully autonomous AI menu scanner and macro-nutrition tracker. Connected to Supabase and Vercel.*
+  *Scan any restaurant menu or meal photo for instant nutrition data. The fastest calorie tracker designed for healthy eating outside, weight loss, and GLP-1 goals. Connected to Supabase and Vercel.*
 
 ---
 
@@ -46,11 +46,9 @@
 
 ### 🔒 Closed-Source IP Lab
 
-To protect proprietary intellectual property for active commercial SaaS ventures, several of my core systems are maintained in private repositories due to commercialization strategies, trade secret protections, and upcoming venture backing preparations:
+To maintain strict user privacy and protect proprietary trade secrets for active commercial SaaS ventures, all core software architectures, vision-estimation pipelines, and data synchronization frameworks are kept closed-source. 
 
-* 🛡️ **MyBite Core Engine** (`private`): Vision-nutrition neural pipelines and calorie estimation logic.
-* 🧠 **Agent Coordination Core** (`private`): State-machine routing and multi-agent workflow managers.
-* 🗝️ **Database Adapters** (`private`): Compliance and local-database adapters for enterprise deployments.
+*Note: Access to private documentation or secure code audits is restricted and can only be requested for strategic partnerships or investment opportunities.*
 
 ---
 
