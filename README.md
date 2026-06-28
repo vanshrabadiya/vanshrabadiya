@@ -31,16 +31,31 @@
 
 ### 🔒 Private & Closed-Source Repositories
 
-To protect proprietary software structures and maintain user privacy, several of my core projects are kept in private repositories:
+To maintain strict commercial confidentiality and protect proprietary code structures, my core systems are kept in **8 private repositories**:
 
 * 🥑 **mybite** — `PRIVATE`  
-  *AI powered calorie tracker. The core application logic and database modules.*
+  *AI powered calorie tracker. The core application logic and database modules for MyBite AI.*
   
 * 🌌 **Vansh-Rabadiya-portfolio** — `PRIVATE`  
   *Vansh Rabadiya portfolio with advanced 3D animation.*
 
 * 🛰️ **nova.io** — `PRIVATE`  
   *TypeScript engine and core backend system modules.*
+
+* 🔌 **Bluenodes** — `PRIVATE`  
+  *Build Secure, Compliant AI for Your Enterprise.*
+
+* ⚙️ **glassy-ai** — `PRIVATE`  
+  *Sleek business workflow automation platform run by coordinated agents.*
+
+* 💳 **Vortex-Pay** — `PRIVATE`  
+  *Global stablecoin payroll and invoicing processor for remote teams.*
+
+* 💎 **Looks-UI** — `PRIVATE`  
+  *A premium, interactive library of 3D glassmorphic components designed with Spline and CSS.*
+
+* 📂 **register** — `PRIVATE`  
+  *Subdomain registration and DNS configuration engine.*
 
 *Access to closed-source codebases is restricted for privacy reasons.*
 
