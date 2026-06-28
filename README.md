@@ -29,23 +29,20 @@
 
 ---
 
-### 🔒 Stealth Ventures & Closed-Source Lab
+### 🔒 Private & Closed-Source Repositories
 
-To maintain strict commercial confidentiality and protect proprietary trade secrets, my core systems are kept in **8 private repositories** under active stealth development:
+To protect proprietary software structures and maintain user privacy, several of my core projects are kept in private repositories:
 
-* 🔮 **Project Zephyr** — `IN STEALTH`  
-  *Custom multi-agent coordination architectures and orchestration layers.*
+* 🥑 **mybite** — `PRIVATE`  
+  *AI powered calorie tracker. The core application logic and database modules.*
   
-* ⚡ **Project Apex** — `IN STEALTH`  
-  *Vision-nutrition neural pipelines and calorie estimation logic.*
+* 🌌 **Vansh-Rabadiya-portfolio** — `PRIVATE`  
+  *Vansh Rabadiya portfolio with advanced 3D animation.*
 
-* 🛰️ **Project Nova** — `IN STEALTH`  
-  *Compliance layers and secure local-database connectors for enterprise environments.*
+* 🛰️ **nova.io** — `PRIVATE`  
+  *TypeScript engine and core backend system modules.*
 
-* 🧪 **Proprietary R&D (5 Repositories)** — `R&D / EXPERIMENTAL`  
-  *Experimental agent routing, custom web scrapers, and WebGL asset compilers.*
-
-*Access and code audits are restricted to strategic partners.*
+*Access to closed-source codebases is restricted for privacy reasons.*
 
 ---
 
