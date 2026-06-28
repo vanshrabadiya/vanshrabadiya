@@ -31,7 +31,7 @@
 
 ### 🔒 Private & Closed-Source Repositories
 
-To maintain strict commercial confidentiality and protect proprietary code structures, my core systems are kept in **8 private repositories**:
+To maintain strict commercial confidentiality and protect proprietary code structures, my core systems are kept in **7 private repositories**:
 
 * 🥑 **mybite** — `PRIVATE`  
   *AI powered calorie tracker. The core application logic and database modules for MyBite AI.*
@@ -53,9 +53,6 @@ To maintain strict commercial confidentiality and protect proprietary code struc
 
 * 💎 **Looks-UI** — `PRIVATE`  
   *A premium, interactive library of 3D glassmorphic components designed with Spline and CSS.*
-
-* 📂 **register** — `PRIVATE`  
-  *Subdomain registration and DNS configuration engine.*
 
 *Access to closed-source codebases is restricted for privacy reasons.*
 
