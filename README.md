@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&duration=4000&pause=1500&color=c8b6ff&background=0b071300&center=true&vCenter=true&width=500&lines=Founder+%26+CEO%2C+MyBite+AI;AI+Architect+%26+SaaS+Builder;I+don't+just+plan+-+I+ship." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&duration=4000&pause=1500&color=c8b6ff&background=0b071300&center=true&vCenter=true&width=500&lines=Founder%2C+MyBite+AI;AI+Architect+%26+SaaS+Builder;I+don't+just+plan+-+I+ship." alt="Typing SVG" />
 </p>
 
 <p align="center">
