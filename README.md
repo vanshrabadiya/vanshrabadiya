@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://vanshrabadiya.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-vanshrabadiya.is--a.dev-ffafcc?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:vanshrabadiyav@gmail.com"><img src="https://img.shields.io/badge/Email-vanshrabadiyav%40gmail.com-c8b6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:vanshrabadiyav@gmail.com"><img src="https://img.shields.io/badge/Email-vanshrabadiya4%40gmail.com-c8b6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/vanshrabadiya"><img src="https://img.shields.io/badge/GitHub-vanshrabadiya-a2d2ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
