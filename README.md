@@ -27,7 +27,7 @@
 * 🥑 **MyBite AI** — [mybite.site](https://mybite.site)  
   *Healthy eating outside. Scan any restaurant menu or meal photo for instant nutrition data. The fastest calorie tracker designed for weight loss and GLP-1 goals.*
 
-* 🚀 **Vansh Marketing AI Agents** — [GitHub Repository](https://github.com/vanshrabadiya/vansh-marketing-ai-agents)  
+* 🚀 **Vansh Marketing AI Agents** — [Private repo]
   *Autonomous distribution engine to get viral views and drive sales to your app or SaaS. Fully automated — nothing done manually.*
 
 ---
